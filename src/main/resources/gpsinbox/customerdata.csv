@@ -1,0 +1,11 @@
+customerId,mobileNum,name,gender,age,nationality,passportNum,idNum,leaseStartDate,leaseEndDate,leasePeriod,city,code,area
+300,+99123456,Customer-300,Male,23,Indian,M1234,MI123,2024-10-01,,3,Dubai,DB123,Dubai-I
+301,+99123457,Customer-301,Male,33,Indian,M1235,MI123,2024-09-01,,13,Dubai,DB124,Dubai-I
+302,+99123458,Customer-302,Male,43,Pakistan,P1234,MP123,2024-08-01,,23,Dubai,DB125,Dubai-R
+303,+99123459,Customer-303,Male,31,Pakistan,P1235,MP123,2024-11-01,,10,AbuDhabi,DB126,AbuDhabi-R
+304,+99123411,Customer-304,Male,28,Pakistan,P1236,MP123,2024-01-01,,11,Dubai,DB127,Dubai-I
+305,+96123456,Customer-305,Male,23,Bangladesh,B1234,MB123,2024-10-01,,3,Dubai,DB123,Dubai-I
+306,+96123457,Customer-306,Male,33,Indian,M1236,MI126,2024-09-01,,13,Dubai,DB124,Dubai-I
+307,+96123458,Customer-307,Male,43,Bangladesh,B1237,MB223,2024-08-01,,23,Dubai,DB125,Dubai-R
+308,+96123459,Customer-308,Male,31,Bangladesh,B1238,MB323,2024-11-01,,10,AbuDhabi,DB126,AbuDhabi-R
+309,+96123411,Customer-309,Male,28,Pakistan,P1239,MP123,2024-01-01,,11,AbuDhabi,DB127,AbuDhabi-I
